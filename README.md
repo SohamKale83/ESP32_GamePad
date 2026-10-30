@@ -46,7 +46,7 @@ An easy-to-build gaming controller made using readily available electronic compo
 
 <div align="center" >
 
-| ![Working](docs/images/demo.gif) |
+![Working](docs/images/demo.gif) 
 
 </div>
 
@@ -55,3 +55,83 @@ An easy-to-build gaming controller made using readily available electronic compo
 
 ---
 
+## 🚀 Getting Started
+
+Follow these steps to build your own ESP32 GamePad and get it running!
+
+### 🛠️ Step 1: Gather the Hardware Components
+
+Collect all the electronic components listed in the [Hardware Requirements](#-hardware-requirements) section of this repository. Make sure you have all the required components before starting the assembly.
+
+### 🔌 Step 2: Assemble the Controller
+
+Connect the ESP32, joysticks, push buttons, OLED display, buzzer, and other components according to the circuit connections provided in this project. Double-check your wiring before powering on the controller to avoid damaging any components.
+
+### 💻 Step 3: Get the Source Code
+
+You can obtain the program in either of the following ways:
+
+**Option 1: Clone the Repository (Recommended)**
+
+If you have Git installed on your computer, open a terminal or Command Prompt and run:
+
+```bash
+git clone https://github.com/SohamKale83/ESP32_GamePad.git
+```
+
+Navigate to the cloned project folder:
+
+```bash
+cd ESP32_GamePad
+```
+
+You can now access the source code and other project files on your computer.
+
+**Option 2: Download or Copy the Code Manually**
+
+If you don't want to use Git, you can simply:
+
+1. Open the [ESP32_GamePad GitHub repository](https://github.com/SohamKale83/ESP32_GamePad).
+2. Download the project using **Code → Download ZIP**, then extract the ZIP file.
+3. Open the `ESP32_GamePad` folder and locate the Arduino program (`.ino` file).
+4. Open the program in the Arduino IDE.
+
+Alternatively, if you already have the project folder on your computer, simply open it and copy the program into your Arduino IDE.
+
+### ⚡ Step 4: Upload the Program
+
+1. Install and open the Arduino IDE.
+2. Install the required libraries mentioned in the project documentation.
+3. Connect your ESP32 to your computer using a USB cable.
+4. Select the appropriate ESP32 board and COM port in the Arduino IDE.
+5. Open the `.ino` file, compile the program, and upload it to your ESP32.
+
+### 🎮 Step 5: Connect and Play
+
+Once the program has been uploaded, power on your controller and pair it with your laptop or PC through Bluetooth. Your ESP32 GamePad is now ready to use!
+
+**💡 Customization Tip:** Since the ESP32 is programmable, you can modify the source code to change button functions, joystick controls, and other features according to your preferences and the games you want to play.
+
+---
+
+## 📁 Repository Structure
+
+```
+Remote-Controller/
+├── docs/
+│   └── images/
+├── Gaming_Controller/
+│   └── Gaming_Controller.ino
+├── LICENSE
+└── README.md
+
+```
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+
+**Soham Kale**
+GitHub: [@SohamKale83](https://github.com/SohamKale83)
