@@ -30,3 +30,28 @@ An easy-to-build gaming controller made using readily available electronic compo
 |10.|Sliding switching|1|For on/off|
 
 ---
+
+## 📷 Hardware Photos
+
+| Remote - Front |
+|:---:|
+| ![front](docs/images/front.jpg) |
+| Remote - Back | 
+|:---:|
+| ![back](docs/images/back.jpg) |
+
+---
+
+## 🎬 Demo 
+
+<div align="center" >
+
+| ![Working](docs/images/demo.gif) |
+
+</div>
+
+>[!NOTE]
+> The working demo of this project will be uploaded in near future.
+
+---
+
