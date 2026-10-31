@@ -37,7 +37,6 @@ An easy-to-build gaming controller made using readily available electronic compo
 |:---:|
 | ![front](docs/images/front.jpg) |
 | Remote - Back | 
-|:---:|
 | ![back](docs/images/back.jpg) |
 
 ---
@@ -49,9 +48,6 @@ An easy-to-build gaming controller made using readily available electronic compo
 ![Working](docs/images/demo.gif) 
 
 </div>
-
->[!NOTE]
-> The working demo of this project will be uploaded in near future.
 
 ---
 
